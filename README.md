@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maynrumey
-- 👀 I’m interested in Android, Java, Kotlin, Flutter
+- 👀 I’m interested in Android, Java, Kotlin, Flutter, Javascript
 - 🌱 I’m currently learning Android -Java
 - 💞️ I’m looking to collaborate on to Create avery advance and functional android appliaction
 - 📫 How to reach me - mail: maynrumey@gmail.com
