@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @maynrumey
-- 👀 I’m interested in Android, Java, Kotlin, Flutter, Javascript
-- 🌱 I’m currently learning Android -Java
-- 💞️ I’m looking to collaborate on to Create avery advance and functional android appliaction
+- 👋 Hi, I’m @mayn
+- 👀 I’m interested in Data Science, AI, ML, Python, Android, and Java.
+- 🌱 I’m currently learning Data Analytics, and Python.
+- 💞️ I’m looking to collaborate on Data Science & Python projects.
 - 📫 How to reach me - mail: maynrumey@gmail.com
 
 <!---
