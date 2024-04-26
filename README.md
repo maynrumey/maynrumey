@@ -6,5 +6,5 @@
 
 🚀 Join me as I embark on this thrilling voyage, pushing the boundaries of technology, one line of code at a time. Connect with me to share ideas, collaborate on projects, and make our mark on the digital landscape.
 
-📫 Reach out to me at maynrumey@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/mayn-uddin2050/ to chat about all things tech, data, and the future of AI!
+📫 Reach out to me at maynrumey@gmail.com or find me on LinkedIn at https://www.linkedin.com/in/mayn1993/ to chat about all things tech, data, and the future of AI!
 
